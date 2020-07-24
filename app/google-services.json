@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "548787388936",
+    "firebase_url": "https://voice-attendance-app.firebaseio.com",
+    "project_id": "voice-attendance-app",
+    "storage_bucket": "voice-attendance-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548787388936:android:a6f130637899e0bd53c7bd",
+        "android_client_info": {
+          "package_name": "com.example.voiceattendanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548787388936-ut8uuacn1ifu3u6vh8m4i9bnstjf2p4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voiceattendanceapp",
+            "certificate_hash": "017c32cdb2018573d6917fd32c13b6f9cc923681"
+          }
+        },
+        {
+          "client_id": "548787388936-920851o674hsd6hhs94m7p669ro49c8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7LgHFGS8RQwO4GHK1kxq5bizm0FjCaW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548787388936-920851o674hsd6hhs94m7p669ro49c8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548787388936:android:f1959a60b6901d4953c7bd",
+        "android_client_info": {
+          "package_name": "confapp.reachtech.student_attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548787388936-920851o674hsd6hhs94m7p669ro49c8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7LgHFGS8RQwO4GHK1kxq5bizm0FjCaW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548787388936-920851o674hsd6hhs94m7p669ro49c8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
